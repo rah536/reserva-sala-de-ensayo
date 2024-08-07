@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Zm2JzzggY6TfFIr7fQ6qJhkKWQdlGeSigWxG9aijg+0=",
+  "Hash": "sRpsoHPFMHPfvYvtBoCmsgB1A+d/U5yf+iEAnqehqnQ=",
   "Source": "Reserva_SalaEnsayo",
   "BasePath": "_content/Reserva_SalaEnsayo",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\raher\\source\\repos\\Reserva_SalaEnsayo\\wwwroot\\img\\cat.png",
+      "SourceId": "Reserva_SalaEnsayo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raher\\source\\repos\\Reserva_SalaEnsayo\\wwwroot\\",
+      "BasePath": "_content/Reserva_SalaEnsayo",
+      "RelativePath": "img/cat.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cat.png"
     },
     {
       "Identity": "C:\\Users\\raher\\source\\repos\\Reserva_SalaEnsayo\\wwwroot\\js\\site.js",

@@ -28,3 +28,4 @@ C:\Users\raher\source\repos\Reserva_SalaEnsayo\obj\Debug\net8.0\refint\Reserva_S
 C:\Users\raher\source\repos\Reserva_SalaEnsayo\obj\Debug\net8.0\Reserva_SalaEnsayo.pdb
 C:\Users\raher\source\repos\Reserva_SalaEnsayo\obj\Debug\net8.0\Reserva_SalaEnsayo.genruntimeconfig.cache
 C:\Users\raher\source\repos\Reserva_SalaEnsayo\obj\Debug\net8.0\ref\Reserva_SalaEnsayo.dll
+C:\Users\raher\source\repos\Reserva_SalaEnsayo\obj\Debug\net8.0\Reserva_SalaEnsayo.sourcelink.json

@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\raher\\source\\repos\\Reserva_SalaEnsayo\\wwwroot\\img\\cat.png",
+      "PackagePath": "staticwebassets\\img\\cat.png"
+    },
+    {
       "Id": "C:\\Users\\raher\\source\\repos\\Reserva_SalaEnsayo\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
